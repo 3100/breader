@@ -5,7 +5,7 @@ breader
 
 # Installation
 
-You need to install some tools to your OS.
+You need to install some tools on your OS.
 
 * ImageMagick
 * ZBar
